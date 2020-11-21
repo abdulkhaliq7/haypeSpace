@@ -1,0 +1,11 @@
+
+
+.aboutUs {
+    display: grid;
+    /* grid-template-columns: repeat(auto-fit, 300px); */
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 30px;
+    background: black;
+    padding: 25px 30px;
+    grid-template-rows: 480px;
+}

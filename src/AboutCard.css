@@ -1,0 +1,23 @@
+.about__card {
+    background-color: rgba(60, 60, 60, 0.5);
+    border: 1px solid #3c3c3c;
+    z-index: 7;
+}
+
+.about__image {
+    display: block;
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+}
+
+.about__discription {
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.about__text {
+    color: #fff;
+    font-family: 'Roboto Mono', monospace;
+}
