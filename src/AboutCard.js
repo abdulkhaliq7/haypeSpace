@@ -4,7 +4,7 @@ import './AboutCard.css'
 function AboutCard() {
     return (
         <div className='about__card'>
-            <img className='about__image' src='https://picsum.photos/seed/picsum/200/300' />
+            <img className='about__image' src="https://picsum.photos/seed/picsum/200/300" />
             <div className="about__discription">
                 <p className="about__text">
                     Lorem ipsum dolor sit amet consectetur adipisicing elit. 
@@ -26,7 +26,7 @@ export default AboutCard
 
 
 
-
+// https://picsum.photos/seed/picsum/200/300
 
 
 
